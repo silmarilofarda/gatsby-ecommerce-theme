@@ -7,8 +7,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Sydney Ecommerce Theme`,
-        short_name: `Sydney`,
+        name: `Faithful Willow Soap Theme`,
+        short_name: `Faithful Willow Soap`,
         start_url: `/`,
         background_color: `#000000`,
         theme_color: `#ffffff`,
