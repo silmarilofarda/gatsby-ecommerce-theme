@@ -15,7 +15,7 @@ import Config from '../config.json';
 import { generateMockProductData } from '../helpers/mock';
 
 const ShopV2Page = (props) => {
-  const data = generateMockProductData(9, 'woman');
+  const data = generateMockProductData(9, 'soap');
   const filters = Config.filters;
 
   const [filterState, setFilterState] = useState(filters);
@@ -31,7 +31,6 @@ const ShopV2Page = (props) => {
       <div className={styles.root}>
         <Container size={'large'} spacing={'min'}>
           <Breadcrumbs
-            crumbs={[{ link: '/', label: 'Home' }, { label: 'Woman' }]}
           />
         </Container>
         <Banner
