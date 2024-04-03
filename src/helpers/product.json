@@ -27,14 +27,14 @@
         "price": 10,
         "alt": "Mint Gold",
         "image": "/pictures/mint_gold_soap.jpg",
-        "tags": ["shirt", "men"]
+        "tags": ["soap"]
     },
     {
         "name": "Oats Mango",
         "price": 10,
         "alt": "Oats Mango",
         "image": "/pictures/oats_mango_soap.jpg",
-        "tags": ["shirt", "men"]
+        "tags": ["soap"]
     },
     {
         "name": "Yellow Marble",
@@ -42,8 +42,7 @@
         "alt": "Yellow Marble",
         "image": "/pictures/yellow_marble_soap.jpg",
         "tags": [
-            "shirt",
-            "men"
+            "soap"
         ]
     }
   ]
