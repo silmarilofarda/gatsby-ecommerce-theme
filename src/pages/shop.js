@@ -35,9 +35,9 @@ const ShopPage = (props) => {
           <div className={styles.breadcrumbContainer}>
             <Breadcrumbs
               crumbs={[
-                { link: '/', label: 'Home' },
-                { link: '/', label: 'Woman' },
-                { label: 'Sweaters' },
+//                { link: '/', label: 'Home' },
+//                { link: '/', label: 'Woman' },
+//                { label: 'Sweaters' },
               ]}
             />
           </div>
@@ -75,8 +75,8 @@ const ShopPage = (props) => {
             filters={Config.filters}
           />
           <div className={styles.chipsContainer}>
-            <Chip name={'XS'} />
-            <Chip name={'S'} />
+//            <Chip name={'XS'} />
+//            <Chip name={'S'} />
           </div>
           <div className={styles.productContainer}>
             <span className={styles.mobileItemCount}>476 items</span>
