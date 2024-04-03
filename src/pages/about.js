@@ -70,11 +70,10 @@ const AboutPage = (props) => {
                 Our Values do not matter
               </p>
               <ol>
-                <li>Be an ecowear</li>
-                <li>Sophisticated and not mass-produced</li>
-                <li>Only natural materials</li>
+                <li>Be a clean person you filthy animal</li>
+                <li>Made by random chance</li>
+                <li>Produced with the most unnatural products</li>
               </ol>
-              <img alt={'founder'} src={'/about2.png'}></img>
             </div>
           </div>
         </Container>
