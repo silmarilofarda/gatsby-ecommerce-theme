@@ -44,9 +44,9 @@ const ShopPage = (props) => {
         </Container>
         <Banner
           maxWidth={'650px'}
-          name={`Woman's Sweaters`}
+          name={`Collage of Soaps to fit your needs`}
           subtitle={
-            'Look to our women’s sweaters for modern takes on one-and-done dressing. From midis in bold prints to dramatic floor-sweeping styles and easy all-in-ones, our edit covers every mood.'
+            'Look at the plethora of soaps for your washing needs.'
           }
         />
         <Container size={'large'} spacing={'min'}>
